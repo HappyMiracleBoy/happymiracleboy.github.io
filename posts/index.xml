@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Miracle Boy</title>
-    <link>https://happymiracleboy.github.io/</link>
-    <description>Recent content on My Miracle Boy</description>
+    <title>Posts on My Miracle Boy</title>
+    <link>https://happymiracleboy.github.io/posts/</link>
+    <description>Recent content in Posts on My Miracle Boy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jul 2023 10:32:35 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2023 10:33:39 -0700</lastBuildDate>
     
-	<atom:link href="https://happymiracleboy.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://happymiracleboy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

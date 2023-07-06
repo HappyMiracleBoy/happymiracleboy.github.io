@@ -3,15 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://happymiracleboy.github.io/categories/</loc>
+    <loc>https://happymiracleboy.github.io/about/</loc>
+    <lastmod>2023-07-06T10:32:35-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://happymiracleboy.github.io/</loc>
+    <lastmod>2023-07-06T10:32:35-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://happymiracleboy.github.io/posts/first-post/</loc>
+    <lastmod>2023-07-05T10:33:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://happymiracleboy.github.io/posts/</loc>
+    <lastmod>2023-07-05T10:33:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://happymiracleboy.github.io/categories/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://happymiracleboy.github.io/series/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://happymiracleboy.github.io/categories/web/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://happymiracleboy.github.io/series/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://happymiracleboy.github.io/posts/%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
