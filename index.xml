@@ -12,11 +12,56 @@
     
     
     <item>
+      <title>Fifth Post</title>
+      <link>https://happymiracleboy.github.io/posts/fifth-post/</link>
+      <pubDate>Wed, 05 Jul 2023 10:33:39 -0700</pubDate>
+      
+      <guid>https://happymiracleboy.github.io/posts/fifth-post/</guid>
+      <description>test</description>
+    </item>
+    
+    <item>
       <title>First Post</title>
       <link>https://happymiracleboy.github.io/posts/first-post/</link>
       <pubDate>Wed, 05 Jul 2023 10:33:39 -0700</pubDate>
       
       <guid>https://happymiracleboy.github.io/posts/first-post/</guid>
+      <description>test</description>
+    </item>
+    
+    <item>
+      <title>Fourth Post</title>
+      <link>https://happymiracleboy.github.io/posts/fourth-post/</link>
+      <pubDate>Wed, 05 Jul 2023 10:33:39 -0700</pubDate>
+      
+      <guid>https://happymiracleboy.github.io/posts/fourth-post/</guid>
+      <description>test</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>https://happymiracleboy.github.io/posts/second-post/</link>
+      <pubDate>Wed, 05 Jul 2023 10:33:39 -0700</pubDate>
+      
+      <guid>https://happymiracleboy.github.io/posts/second-post/</guid>
+      <description>test</description>
+    </item>
+    
+    <item>
+      <title>Sixth Post</title>
+      <link>https://happymiracleboy.github.io/posts/sixth-post/</link>
+      <pubDate>Wed, 05 Jul 2023 10:33:39 -0700</pubDate>
+      
+      <guid>https://happymiracleboy.github.io/posts/sixth-post/</guid>
+      <description>test</description>
+    </item>
+    
+    <item>
+      <title>Third Post</title>
+      <link>https://happymiracleboy.github.io/posts/third-post/</link>
+      <pubDate>Wed, 05 Jul 2023 10:33:39 -0700</pubDate>
+      
+      <guid>https://happymiracleboy.github.io/posts/third-post/</guid>
       <description>test</description>
     </item>
     
